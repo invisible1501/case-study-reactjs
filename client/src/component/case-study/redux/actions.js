@@ -1,0 +1,20 @@
+export const LOGIN = 'LOGIN';
+export const SIGN_UP = 'SIGN_UP';
+export const SIGN_UP_SUCCESS = 'SIGN_UP_SUCCESS';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const SIGN_UP_FAIL = 'SIGN_UP_FAIL';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const RESET = 'RESET';
+export const VIEW_HOMEPAGE = 'VIEW_HOMEPAGE';
+export const VIEW_HOMEPAGE_SUCCESS = 'VIEW_HOMEPAGE_SUCCESS';
+export const VIEW_HOMEPAGE_FAIL = 'VIEW_HOMEPAGE_FAIL';
+export const LOADING = 'LOADING';
+export const CHANGE_PROFILE = 'CHANGE_PROFILE';
+export const CHANGE_PROFILE_SUCCESS = 'CHANGE_PROFILE_SUCCESS';
+export const CHANGE_PROFILE_FAIL = 'CHANGE_PROFILE_FAIL';
+
+export function authenLogin(payload) {return {type: LOGIN, payload}};
+export function authenSignUp(payload) {return {type: SIGN_UP, payload}};
+export function reset(payload) {return {type: RESET, payload}};
+export function viewHomePage() {return {type: VIEW_HOMEPAGE}};
+export function changeProfile(payload) {return {type: CHANGE_PROFILE, payload}};

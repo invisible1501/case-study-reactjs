@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "969210a5-33af-44f2-a8a3-ef25c919c327",
+    "name": "Bed",
+    "thumbnail": "/images/bed.jpg",
+    "price": "10000",
+    "quantity": "100"
+  },
+  {
+    "_id": "a145a620-0606-4bea-a389-497525caf6a8",
+    "name": "Cabinet",
+    "thumbnail": "/images/cabinet.jpg",
+    "price": "11000",
+    "quantity": "100"
+  },
+  {
+    "_id": "c3b5ebc7-62b2-4b88-ba8c-82c0f5abeca6",
+    "name": "Carpet",
+    "thumbnail": "/images/carpet.jpg",
+    "price": "12000",
+    "quantity": "100"
+  },
+  {
+    "_id": "19be86dd-26cd-4d3a-a4e8-eb6bdcd26222",
+    "name": "Curtain",
+    "thumbnail": "/images/curtain.jpg",
+    "price": "13000",
+    "quantity": "100"
+  },
+  {
+    "_id": "72d21a4e-76d6-45bf-b41f-c51ed9e11512",
+    "name": "Television",
+    "thumbnail": "/images/tv.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "5b40b529-100e-4956-8d65-11ea4d5753cc",
+    "name": "Chair",
+    "thumbnail": "/images/chair.jpg",
+    "price": "15000",
+    "quantity": "100"
+  },
+  {
+    "_id": "8b58ac35-262c-49cc-a462-e9ec05e30ae8",
+    "name": "Table",
+    "thumbnail": "/images/table.jpg",
+    "price": "10000",
+    "quantity": "100"
+  },
+  {
+    "_id": "cc211ac1-0751-4904-b587-e2b0b393b1b3",
+    "name": "Refrigerator",
+    "thumbnail": "/images/refrige.jpg",
+    "price": "11000",
+    "quantity": "100"
+  },
+  {
+    "_id": "426009bf-91ad-4a9e-b941-4ace0eee0bb3",
+    "name": "Washing machine",
+    "thumbnail": "/images/washing-machine.jpg",
+    "price": "12000",
+    "quantity": "100"
+  },
+  {
+    "_id": "a4033450-d63d-43ab-a4d3-873f8e49bbdd",
+    "name": "wt-purifier",
+    "thumbnail": "/images/wt_purifier.jpg",
+    "price": "13000",
+    "quantity": "100"
+  },
+  {
+    "_id": "8761e4db-c66e-46eb-bee0-63df44f884fc",
+    "name": "Wall Fan",
+    "thumbnail": "/images/fan1.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "a8d40da8-0a77-409e-b62c-caf5fa52fcbc",
+    "name": "Fan",
+    "thumbnail": "/images/fan2.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "ee4e1dac-7e98-4a70-bf55-02ec9c6c7d1c",
+    "name": "Knife",
+    "thumbnail": "/images/knifes.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "15e53ae4-913e-4334-aca5-c4b81e028406",
+    "name": "Jar",
+    "thumbnail": "/images/jar.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "188ac0ae-3d6d-49dc-9006-0a2a8b4d9603",
+    "name": "Wallet",
+    "thumbnail": "/images/wallet.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "533d25bb-5a90-4409-ada3-c6737214d0e6",
+    "name": "Earphone",
+    "thumbnail": "/images/earphone.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "49d8e92c-5109-40eb-9da8-9fd6c6a62f4f",
+    "name": "Bag",
+    "thumbnail": "/images/bag.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "6c6b3443-f66f-4397-9b9e-5770e050be89",
+    "name": "Helmet",
+    "thumbnail": "/images/helmet.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "d5f1b3aa-46f5-4643-af7a-a19f40f77506",
+    "name": "Dishwashing machine",
+    "thumbnail": "/images/dishwashing-machine.jpg",
+    "price": "14000",
+    "quantity": "100"
+  },
+  {
+    "_id": "06aa0e64-ce9b-4280-bbab-830a259faa11",
+    "name": "Air Conditioner",
+    "thumbnail": "/images/air-conditioner.jpg",
+    "price": "15000",
+    "quantity": "100"
+  }
+]

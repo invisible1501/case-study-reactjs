@@ -1,0 +1,35 @@
+{
+  "users": [
+  {
+    "_id": "c3f31b6a-3e2d-4fb0-8199-f9c175461ad1",
+    "name": "admin",
+    "username": "admin",
+    "password": "12345678",
+    "age": 30,
+    "phone": "0123456789"
+  },
+  {
+    "_id": "e74aea4e-d079-465d-aa5b-a6fefd96ca93",
+    "name": "nam",
+    "username": "invisible1501",
+    "password": "yêumnhieu",
+    "age": 100,
+    "phone": "1212121212"
+  },
+  {
+    "name": "Mai Trà",
+    "username": "invisible",
+    "password": "Yeubemai",
+    "_id": "d152a838-364b-4eae-9f20-0318b4aacf29",
+    "age": "21",
+    "phone": "0988896404"
+  },
+  {
+    "name": "Trà Thụy Trúc Mai",
+    "username": "tttm15012001",
+    "password": "Yeubemai1501",
+    "_id": "b5fdf5c0-82c0-4acc-966d-7b1d2f36d1ad",
+    "age": 22,
+    "phone": "0932301689"
+  }]
+}
