@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require("path");
 const jsonServer = require('json-server');
-const goods = require('./api/goods/GET.json');
+const apiRouter = require('./routes/routes');
 
 //const bodyParser = require('body-parser');
 //const apiMocker = require('connect-api-mocker');
@@ -14,9 +14,7 @@ app.use(express.static(path.join(__dirname, '../client/build')));  // THIS LINE 
 app.use(cors({
     origin: '*'
 }));
-app.use('/api', jsonServer.router(goods));
-
-//const signRouter = require('./routes/routes');
+app.use('/api', apiRouter);
 
 //app.use('/api/users', signRouter);
 
